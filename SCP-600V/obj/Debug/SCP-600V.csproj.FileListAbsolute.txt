@@ -1,0 +1,2 @@
+C:\Users\DaviloneOS\Downloads\scp-600v-version-2.3.4\SCP-600V\obj\Debug\SCP-600V.csproj.AssemblyReference.cache
+C:\Users\DaviloneOS\Downloads\scp-600v-version-2.3.4\SCP-600V\obj\Debug\SCP-600V.csproj.CoreCompileInputs.cache

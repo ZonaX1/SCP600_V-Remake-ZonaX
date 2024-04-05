@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\extension\\scp600base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\extension\\scp600base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|c:\\users\\daviloneos\\downloads\\scp-600v-version-2.3.4\\scp-600v\\eventhandler\\roundevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\eventhandler\\roundevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\events\\scp600handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\events\\scp600handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\command\\maxhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\command\\maxhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\command\\getsessionvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\command\\getsessionvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\events\\eventarg\\spawningeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\events\\eventarg\\spawningeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\api\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\api\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SCP-600V||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\command\\parentcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\command\\parentcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\scp-600v\\command\\permissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E08107A7-26AD-4DC7-9EF4-ACA6BF75F4C9}|SCP-600V\\SCP-600V.csproj|solutionrelative:scp-600v\\command\\permissionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\API\\Role.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\API\\Role.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\API\\Role.cs",
+              "RelativeToolTip": "SCP-600V\\API\\Role.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wEAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:56.228Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundEvents.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\EventHandler\\RoundEvents.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\EventHandler\\RoundEvents.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\EventHandler\\RoundEvents.cs",
+              "RelativeToolTip": "SCP-600V\\EventHandler\\RoundEvents.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Config.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Config.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Config.cs",
+              "RelativeToolTip": "SCP-600V\\Config.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:16.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scp600Handler.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Events\\Scp600Handler.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Events\\Scp600Handler.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Events\\Scp600Handler.cs",
+              "RelativeToolTip": "SCP-600V\\Events\\Scp600Handler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaxHealth.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\MaxHealth.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Command\\MaxHealth.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\MaxHealth.cs",
+              "RelativeToolTip": "SCP-600V\\Command\\MaxHealth.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSessionVariables.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\GetSessionVariables.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Command\\GetSessionVariables.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\GetSessionVariables.cs",
+              "RelativeToolTip": "SCP-600V\\Command\\GetSessionVariables.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawningEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Events\\EventArg\\SpawningEventArgs.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Events\\EventArg\\SpawningEventArgs.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Events\\EventArg\\SpawningEventArgs.cs",
+              "RelativeToolTip": "SCP-600V\\Events\\EventArg\\SpawningEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scp600Base.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Extension\\Scp600Base.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Extension\\Scp600Base.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Extension\\Scp600Base.cs",
+              "RelativeToolTip": "SCP-600V\\Extension\\Scp600Base.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:21.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SCP-600V",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\SCP-600V.csproj",
+              "RelativeDocumentMoniker": "SCP-600V\\SCP-600V.csproj",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\SCP-600V.csproj",
+              "RelativeToolTip": "SCP-600V\\SCP-600V.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-25T01:05:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParentCommands.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\ParentCommands.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Command\\ParentCommands.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\ParentCommands.cs",
+              "RelativeToolTip": "SCP-600V\\Command\\ParentCommands.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:53.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PermissionList.cs",
+              "DocumentMoniker": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\PermissionList.cs",
+              "RelativeDocumentMoniker": "SCP-600V\\Command\\PermissionList.cs",
+              "ToolTip": "C:\\Users\\DaviloneOS\\Downloads\\scp-600v-version-2.3.4\\SCP-600V\\Command\\PermissionList.cs",
+              "RelativeToolTip": "SCP-600V\\Command\\PermissionList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T01:02:53.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
